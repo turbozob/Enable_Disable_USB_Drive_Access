@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>imageedit_5_8766982024.ico</ApplicationIcon>
+    <ApplicationIcon>usb_a.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -79,6 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="imageedit_5_8766982024.ico" />
+    <Content Include="usb_a.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
